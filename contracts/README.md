@@ -9,3 +9,4 @@
   - Proxy Admin: [0xD2FfC695981Fc314DFDf6ED3D20Ad634946AbFDC](https://polygonscan.com/address/0xD2FfC695981Fc314DFDf6ED3D20Ad634946AbFDC)
   - Vesting Treasury: [0x3Ade8146e3c6Ec5275F768cB93EEac78363Ceb10](https://polygonscan.com/address/0x3Ade8146e3c6Ec5275F768cB93EEac78363Ceb10)
   - Vision Proposal: [0xD5E20b75BF7e79189884AB9713E09D98F7DC24a2](https://polygonscan.com/address/0xD5E20b75BF7e79189884AB9713E09D98F7DC24a2)
+  - Staking: [0x522abEf83a1a52eA13170bB1DcC4461e6b305508](https://polygonscan.com/address/0x522abEf83a1a52eA13170bB1DcC4461e6b305508)
